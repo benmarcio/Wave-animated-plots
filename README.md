@@ -1,2 +1,2 @@
 # Wave-animated-plots
-In this repository I keep my files where I mainly plotted interfering waves and demonstrate their polarization
+In this repository I keep my files where I mainly plot interfering waves, demonstrate their polarization and plot chemical compounds
